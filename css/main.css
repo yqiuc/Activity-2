@@ -40,7 +40,7 @@ header {
  line-height: 0.5;
  text-align: center;
 
-   color: #101884;
+   color: black;
 
  }
 
@@ -48,7 +48,7 @@ header {
  font-size: 1.00em;
  font-weight: normal;
  margin: -5px 0 0;
-   color: #df330a;
+   color: black;
  }
 
 
@@ -59,4 +59,25 @@ header {
  padding-top: 50px;
  color: #ccc;
  }
+
+.lbj-photo {
+    display: block;
+    max-width: 250px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
+
+.basketball-photo{
+    display: block;
+    max-width: 250px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
+
+.moon-photo{
+    display: block;
+    max-width: 1000px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
 
