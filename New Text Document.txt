@@ -1,0 +1,39 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <link href="css/main.css" rel="stylesheet" type="text/css" media="screen,projection" >
+    <head>
+      <meta charset="UTF-8">
+      <title>Boomer</title>
+</head>
+<body>
+<h1>Basketball</h1>
+ 
+<img src="image/basketball.jpg">
+                
+<h2>
+                  
+<p style="text-align:center">My favorite basketball player is LeBron James because he has a hard-working spirit! .</p>
+               
+ </h2>
+
+                 
+ <h2>
+ <p style="text-align:center">He always comes through when it counts and leads his team to victory!</p>
+</h2>
+      
+
+
+                  <hr>
+                     <p class="center">
+                     <a href="index.html">Back</a>
+                     </p>
+                  <hr>
+
+
+    </body>
+
+                     <p class="footer">
+                     <a href="https://www.lebronjames.com/">Image Credit</a>
+                     </p>
+    <hr>
+    </html>
